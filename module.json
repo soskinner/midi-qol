@@ -1,9 +1,9 @@
 {
-  "id": "{{name}}",
-  "title": "{{title}}",
-  "description": "{{description}}",
+  "id": "midi-qol",
+  "title": "Midi QOL",
+  "description": "Automates rolling weapon/spell attacks and applying damage",
 
-  "version": "{{version}}",
+  "version": "11.15",
   "authors": [{ "name": "tposney" }],
   "socket": true,
   "scripts": [],
