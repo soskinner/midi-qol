@@ -107,6 +107,6 @@
   },
   "url": "https://github.com/soskinner/midi-qol",
   "manifest": "https://github.com/soskinner/midi-qol/blob/v11.5/package/module.json",
-  "download": "https://github.com/soskinner/midi-qol/archive/refs/tags/source.zip",
+  "download": "https://github.com/soskinner/midi-qol/archive/refs/tags/v11.5.zip",
   "changelog": "https://github.com/soskinner/midi-qol/blob/main/Changelog.md"
 }
