@@ -106,7 +106,7 @@
     "allowBugReporter": true
   },
   "url": "https://github.com/soskinner/midi-qol",
-  "manifest": "https://github.com/soskinner/midi-qol/blob/v11.5/package/module.json",
-  "download": "https://github.com/soskinner/midi-qol/raw/main/package/midi-qol-11.5.zip",
-  "changelog": "https://github.com/soskinner/midi-qol/blob/main/Changelog.md"
+  "manifest": "https://raw.githubusercontent.com/soskinner/midi-qol/main/package/module.json",
+  "download": "https://github.com/soskinner/midi-qol/raw/main/midi-qol-11.5.zip",
+  "changelog": "https://raw.githubusercontent.com/soskinner/midi-qol/v11.5/Changelog.md"
 }
